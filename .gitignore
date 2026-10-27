@@ -1,0 +1,5 @@
+*.odbcpack
+!ODBC-Synthetic-Test.odbcpack
+*.partial-*
+*.zip
+*.log
